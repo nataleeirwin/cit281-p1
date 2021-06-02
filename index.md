@@ -2,7 +2,7 @@
 
 This project was designed to gain ecperience with accessing command line interface (CLI), working with CLI commands, working with Visual Studio Code (VSCode), and writing and executing non-web server Node.js JavaScript code.
 
-Files from this project can be found [here]().
+Files from this project can be found [here](https://github.com/nataleeirwin/cit281-p1).
 
 ### Elements
 
