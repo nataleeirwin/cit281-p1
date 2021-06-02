@@ -13,4 +13,4 @@ Files from this project can be found [here]().
 
 ## Here is an example of the folders created during this project
 
-![Screenshot of folders.png](https://github.com/nataleeirwin/cit281-p1/blob/main/p1%20files/p1-tree.png)
+![Screenshot of p1-tree.png](https://github.com/nataleeirwin/cit281-p1/blob/main/p1%20files/p1-tree.png)
